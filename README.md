@@ -1,6 +1,6 @@
 # The Compilation of Figures for Geosciences
 My original scientific figures for Geosciences.
-> Ikegami (2026) The Compilation of Figures for Geosciences. https://github.com/geoign/Geoscience_Figures/
+> Ikegami (2026) The Compilation of Figures for Geosciences. Github. https://github.com/geoign/Geoscience_Figures/ Retrieved on YYYY-MM-DD.
 
 ---
 
