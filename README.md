@@ -5,6 +5,9 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 You can use this figure freely for personal and educational purposes.<br>
 For commercial use, contact me.<br>
 
+I also encourages people "re-drawing" or "getting inspired" from these figures.<br>
+My license restriction does not apply to such figures or illustrations.
+
 # Deep Earth (Japanese & English)
 A figure showing the deep internal layers of the Earth.<br>
 Link to ![Adobe Illustrator (.ai) file](MyTransects_Tohoku_v2.ai).<br>
