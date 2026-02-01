@@ -1,12 +1,18 @@
 # Geoscience_Figures
-My original scientific figures for Geosciences
+My original scientific figures for Geosciences.
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
-Commercial use is not permitted.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).<br>
+You can use this figure freely for personal and educational purposes.<br>
+For commercial use, contact me.<br>
 
 # Deep Earth (Japanese & English)
 A figure showing the deep internal layers of the Earth.<br>
-See MyTransects_Tohoku_v2.ai. 
+Link to ![Adobe Illustrator (.ai) file](MyTransects_Tohoku_v2.ai).<br>
+
+![MyTransects_Tohoku_v2_EN-01](MyTransects_Tohoku_v2_EN-02.jpg) <br>
+![MyTransects_Tohoku_v2_EN-01](MyTransects_Tohoku_v2_JP-02.jpg) <br>
+![MyTransects_Tohoku_v2_EN-01](MyTransects_Tohoku_v2_EN-01.jpg) <br>
+![MyTransects_Tohoku_v2_EN-01](MyTransects_Tohoku_v2_JP-01.jpg) <br>
 
 ## Updates
 2026/02/01 The "Deep Earth" figure has been added.
