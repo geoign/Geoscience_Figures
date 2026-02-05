@@ -20,7 +20,7 @@ My license restriction does not apply to such figures or illustrations.
 ---
 
 ### Disclaimer
-I am a genius geoscientist and I did my best to draw these figures.<br>
+I did my best to draw these figures.<br>
 But still, there might be mistakes. Please double check if you plan to do something important.<br>
 
 ---
